@@ -2,7 +2,7 @@
 
 This repository contains a way to test our terraform code with the Terraform-kitchen module
 
-##Prerequisites:
+## Prerequisites:
 Be a member of a GitHUB oragnization with proper rights.
 Have a HitHUB token.
 
